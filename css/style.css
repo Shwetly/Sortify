@@ -3,7 +3,7 @@
   --secondary-color: #16a085;
 }
 * {
-  /* Below is the standard CSS code one should add to get rid of default margins and padding which most of tge HTML elements have */
+ 
   margin: 0;
   padding: 0;
   box-sizing: border-box;
